@@ -1,8 +1,16 @@
+
+### Data Download
 ```bash
 bash ./data/downloader.sh
 
 ```
+### Analysis and Result Notebook
+to render javascript behavior on github, please refer to the following link:
+https://nbviewer.jupyter.org/github/italu1013/insideairbnb_rental_price_prediction/blob/main/SD_airbnb_rental_EDA_and_rental_predict_modeling.ipynb
 
+
+------
+### Developing notes 
 ideas:
 * host/property image analysis
 * comment sentiment analysis
